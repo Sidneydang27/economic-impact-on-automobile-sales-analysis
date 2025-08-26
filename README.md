@@ -17,6 +17,7 @@ An interactive dashboard built with Dash and Plotly to analyze historical automo
 
 ## 📁 Project Structure
 economic-impact-on-automobile-sales-analysis/
+```
 ├── data/
 │   └── data_source.md # Dataset URL and schema 
 ├── images/ │  
@@ -38,7 +39,7 @@ economic-impact-on-automobile-sales-analysis/
 ├── README.md # Project overview and setup guide 
 ├── LICENSE    
 └── .gitignore # Ignore virtual env, cache, etc. 
-
+```
 ---
 
 ## 📄 Dataset
@@ -65,13 +66,13 @@ See [`data/data_source.md`](data/data_source.md) for full details.
 
 ## Visualizations
 
-(images/advertising_expenditure_during_recession_and_non_recession_pie_chart1.png)
+![](images/advertising_expenditure_during_recession_and_non_recession_pie_chart1.png)
 
-(images/automobile_sales_during_recession_line_plot1.png)
+![](images/automobile_sales_during_recession_line_plot1.png)
 
-(images/Subplot_GDP_variation_during_recession_and_non_recession.png)
+![](images/Subplot_GDP_variation_during_recession_and_non_recession.png)
 
-(images/automobile_sales_statistics_dashboard_Yearly_Statistics.png)
+![](images/automobile_sales_statistics_dashboard_Yearly_Statistics.png)
 
 ---
 
