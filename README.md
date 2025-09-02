@@ -21,21 +21,21 @@ economic-impact-on-automobile-sales-analysis/
 ├── data/
 │   └── data_source.md # Dataset URL and schema 
 ├── images/ │  
-├── advertising_expenditure_during_recession_and_non_recession_pie_chart1.png │   
-├── share_of_each_vehicle_type_in_total_expenditure_during_recession_pie_chart2.png │   
-├── automobile_sales_during_recession_line_plot1.png │   
-├── automobile_sales_by_vehicle_type_during_recession_line_plot2.png │
-├── normalized_automobile_sales_by_vehicle_type_during_recession_line_plot3
-├── relationship_between_Avg_vehicle_price_and_sales_during_recessions
-├── seasonality_impact_on_automobile_sales_bubble_chart
-├── Subplot_GDP_variation_during_recession_and_non_recession
-├── vehicle_sales_during_recession_and_non_recession_bar_chart
-├── automobile_sales_statistics_dashboard_Recession_period_Statistics.png │   
-└── automobile_sales_statistics_dashboard_Yearly_Statistics.png 
+│   └── advertising_expenditure_during_recession_and_non_recession_pie_chart1.png │   
+│   └── share_of_each_vehicle_type_in_total_expenditure_during_recession_pie_chart2.png │   
+│   └── automobile_sales_during_recession_line_plot1.png │   
+│   └── automobile_sales_by_vehicle_type_during_recession_line_plot2.png │
+│   └── normalized_automobile_sales_by_vehicle_type_during_recession_line_plot3
+│   └── relationship_between_Avg_vehicle_price_and_sales_during_recessions
+│   └── seasonality_impact_on_automobile_sales_bubble_chart
+│   └── Subplot_GDP_variation_during_recession_and_non_recession
+│   └── vehicle_sales_during_recession_and_non_recession_bar_chart
+│   └── automobile_sales_statistics_dashboard_Recession_period_Statistics.png │   
+│   └── automobile_sales_statistics_dashboard_Yearly_Statistics.png 
 ├── notebook/ │   
-└── exploratory_analysis_and_visuals.ipynb # Exploratory analysis with Matplotlib, Seaborn, Folium 
+│   └── exploratory_analysis_and_visuals.ipynb # Exploratory analysis with Matplotlib, Seaborn, Folium 
 ├── app/ │   
-└── ainteractive_dashboard.py # Dash app with interactive components 
+│   └── ainteractive_dashboard.py # Dash app with interactive components 
 ├── README.md # Project overview and setup guide 
 ├── LICENSE    
 └── .gitignore # Ignore virtual env, cache, etc. 
