@@ -1,4 +1,4 @@
-# 🚗 Automobile Sales Statistics Dashboard
+# 🚗 Economic Impact on Automobile Sales Analysis 
 
 An interactive dashboard built with Dash and Plotly to analyze historical automobile sales trends from 1980 to 2013, with a focus on recession periods. This project is part of a two-part data visualization portfolio that combines exploratory analysis with interactive web-based insights.
 
